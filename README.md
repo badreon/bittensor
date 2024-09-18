@@ -1,0 +1,1 @@
+A Bittensor evaluation framework for assessing Bittensor subnet mining viability, combining quantitative metrics on emissions, profitability, competition, resource requirements, and incentive structures to generate a comparable Subnet Mining Score to inform decision-making.
